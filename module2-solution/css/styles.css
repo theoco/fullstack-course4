@@ -20,8 +20,8 @@ section {
 
 .menu-item-label {
 	padding: 0px 10px 0px 10px;
-	border-bottom: 1px solid green;
-	border-left: 1px solid green;
+	border-bottom: 1px solid black;
+	border-left: 1px solid black;
 	float: right;
 	font-size: 1.25em;
 }
